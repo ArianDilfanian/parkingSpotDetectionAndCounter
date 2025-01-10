@@ -1,6 +1,6 @@
 # 🚗🚧 Parking Spot Detection and Monitoring
 
-Welcome to the **🏦 Parking Spot Detection and Monitoring** project! This repository provides a comprehensive solution for detecting and monitoring parking spot occupancy in real-time using image processing and computer vision techniques. The system identifies parking spots, tracks their status, and displays available spaces dynamically.
+This repository provides a comprehensive solution for detecting and monitoring parking spot occupancy in real-time using image processing and computer vision techniques. The system identifies parking spots, tracks their status, and displays available spaces dynamically.
 
 ## 🔄 Project Overview
 The objective of this project is to utilize video streams and a pre-defined mask to classify parking spots as occupied or vacant. The implementation leverages OpenCV for image processing, connected components analysis for parking spot detection, and efficient frame differencing for occupancy classification. This tool is ideal for automating parking management and providing real-time data on parking availability.
