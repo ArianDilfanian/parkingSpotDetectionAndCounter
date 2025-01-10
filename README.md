@@ -21,8 +21,9 @@ The objective of this project is to utilize video streams and a pre-defined mask
 ## 🔄 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ArianDilfanian/ParkingSpotDetection.git
-   cd ParkingSpotDetection
+   git clone https://github.com/ArianDilfanian/parkingSpotDetectionAndCounter.git
+   cd parkingSpotDetectionAndCounter
+
    ```
 
 2. Install the required dependencies:
