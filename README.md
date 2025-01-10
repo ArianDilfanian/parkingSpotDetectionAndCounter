@@ -73,8 +73,6 @@ pip install opencv-python-headless numpy matplotlib
 ## 💪 Contributing
 Contributions are welcome! If you have suggestions, bug fixes, or new features, feel free to submit a pull request or open an issue.
 
-## 🔒 License
-This project is licensed under the [MIT License](LICENSE).
 
 ## 🌟 Acknowledgments
 - [OpenCV](https://opencv.org/) for image processing tools.
